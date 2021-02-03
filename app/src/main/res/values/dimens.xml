@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="output_equation_padding">16dp</dimen>
+    <dimen name="input_tile_size">24dp</dimen>
+    <dimen name="text_size_input">32sp</dimen>
+</resources>

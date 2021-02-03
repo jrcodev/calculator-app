@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#556080</color>
+    <color name="colorPrimaryDark">#556080</color>
+    <color name="colorAccent">#ED8A19</color>
+    <color name="tile_background_color">#d3d3d3</color>
+    <color name="output_equation_color">#000</color>
+    <color name="output_outcome_color">#777777</color>
+    <color name="image_color">@color/colorAccent</color>
+</resources>
